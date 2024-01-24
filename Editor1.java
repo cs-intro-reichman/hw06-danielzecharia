@@ -34,4 +34,6 @@ public class Editor1 {
 		StdDraw.pause(3000); 
 		Runigram.display(imageOut);							
 	}
+
+
 }
